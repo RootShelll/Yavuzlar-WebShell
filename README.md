@@ -24,7 +24,7 @@ Yavuzlar WebShell is a web-based shell application that allows you to manage ser
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yavuzlar-webshell.git
+   git clone https://github.com/RootShelll/Yavuzlar-WebShell.git
    ```
 2. Upload the files to your web server.
 3. Ensure PHP is installed and configured properly on your server.
@@ -74,4 +74,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📬 Contact
 
-For support, open an issue or reach out via email: **your_email@example.com**
+For support, open an issue or reach out via email: **help@r00t-shell.com**
